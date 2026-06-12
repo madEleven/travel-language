@@ -59,7 +59,7 @@ For pronunciation:
             ChatMessage(role="system", content="You are a professional translator specializing in travel phrases. Always return valid JSON only. Detect the source language automatically and translate to the requested target languages."),
             ChatMessage(role="user", content=prompt),
         ],
-        model="deepseek-v4-pro",
+        model="deepseek-chat",
     )
 
     response = await service.gentxt(request)
@@ -86,7 +86,7 @@ For pronunciation:
                 ChatMessage(role="system", content="Fix this into valid JSON only."),
                 ChatMessage(role="user", content=payload_text),
             ],
-            model="deepseek-v4-pro",
+            model="deepseek-chat",
         )
         repaired = await service.gentxt(repair_request)
         try:
