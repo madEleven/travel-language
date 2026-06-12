@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecgqaaahha/hero-travel-landmarks.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecgqaaahha/hero-travel-landmarks.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecgqaaahha/hero-travel-landmarks.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A vibrant travel-themed hero banner showing iconic landmarks from Korea (Seoul Tower), Japan (Torii gate), Russia (Saint Basil's Cathedral), and Singapore (Marina Bay Sands) connected by a winding path, warm sunset lighting, modern flat illustration style with gradient colors",
+      "style": "minimalist",
+      "filename": "hero-travel-landmarks.jpg"
+    },
+    {
+      "status": "failed",
+      "path": "",
+      "absolute_path": "",
+      "url": "",
+      "message": "Image generation failed: Image creation failed: HTTP 400 error: {\"error\":{\"message\":\"Transparent background is not supported for this model. (request id: 2026060122505792868533574167301)\",\"type\":\"image_generation_user_error\",\"param\":\"background\",\"code\":\"invalid_value\"}}",
+      "description": "A friendly speech bubble icon with sound waves emanating from it, representing language and pronunciation, teal and purple gradient colors on white background",
+      "style": "minimalist",
+      "filename": "icon-speech-bubble.png"
+    },
+    {
+      "status": "failed",
+      "path": "",
+      "absolute_path": "",
+      "url": "",
+      "message": "Image generation failed: Image creation failed: HTTP 400 error: {\"error\":{\"message\":\"Transparent background is not supported for this model. (request id: 2026060122505792841851048641532)\",\"type\":\"image_generation_user_error\",\"param\":\"background\",\"code\":\"invalid_value\"}}",
+      "description": "A cute illustrated map pin icon with a toilet/restroom symbol inside, blue and white color scheme, clean modern design",
+      "style": "minimalist",
+      "filename": "icon-map-toilet.png"
+    },
+    {
+      "status": "failed",
+      "path": "",
+      "absolute_path": "",
+      "url": "",
+      "message": "Image generation failed: Image creation failed: HTTP 400 error: {\"error\":{\"message\":\"Transparent background is not supported for this model. (request id: 2026060122505792915262884328226)\",\"type\":\"image_generation_user_error\",\"param\":\"background\",\"code\":\"invalid_value\"}}",
+      "description": "A collection of four country flags (South Korea, Japan, Russia, Singapore) arranged in a 2x2 grid with rounded corners and soft shadows, modern card-style design",
+      "style": "minimalist",
+      "filename": "flags-grid-countries.png"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxiaaahha/icon-speech-bubble.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxiaaahha/icon-speech-bubble.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxiaaahha/icon-speech-bubble.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A friendly speech bubble icon with sound waves emanating from it, representing language and pronunciation, teal and purple gradient colors, clean white background, centered composition",
+      "style": "minimalist",
+      "filename": "icon-speech-bubble.png"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxzaaahhq/icon-map-toilet.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxzaaahhq/icon-map-toilet.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxzaaahhq/icon-map-toilet.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A cute illustrated map pin icon with a toilet/restroom symbol inside, blue and white color scheme, clean modern design, white background",
+      "style": "minimalist",
+      "filename": "icon-map-toilet.png"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxdqaahia/flags-grid-countries.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxdqaahia/flags-grid-countries.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-06-01/pxecxdqaahia/flags-grid-countries.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A collection of four country flags (South Korea, Japan, Russia, Singapore) arranged in a 2x2 grid with rounded corners and soft shadows, modern card-style design, white background",
+      "style": "minimalist",
+      "filename": "flags-grid-countries.png"
+    }
+  ],
+  "success_count": 3,
+  "failed_count": 0,
+  "message": "Generated 3/3 images"
+}
